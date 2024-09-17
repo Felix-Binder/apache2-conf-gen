@@ -1,0 +1,27 @@
+{
+  "name": "apache2-conf-gen",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felix-Binder/apache2-conf-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felix-Binder/apache2-conf-gen/issues"
+  },
+  "homepage": "https://github.com/Felix-Binder/apache2-conf-gen#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^14.2.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
